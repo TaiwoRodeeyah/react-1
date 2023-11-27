@@ -1,0 +1,9 @@
+.image{
+    border-radius: 0 25px 0 25px;
+    border: 10px solid gray;
+}
+.image figcaption{
+    text-transform: uppercase;
+    background-color: gray ;
+    padding: 10px 30px;
+}
